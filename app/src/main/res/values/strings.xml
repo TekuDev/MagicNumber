@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MagicNumber</string>
+    <string name="title">Magic Number</string>
+    <string name="validate_button">Validate</string>
+    <string name="guess_the_number">Guess the number</string>
+    <string name="play_again">Play Again</string>
+</resources>
